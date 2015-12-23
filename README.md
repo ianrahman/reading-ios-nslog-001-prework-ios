@@ -11,7 +11,7 @@
 
 The `NSLog()` function that you just used to print out "Hello, World!" in the previous lab is a developer's tool that sends a string to the debug console.
 
-We call it a developer's tool because in mobile development, the end user of the application only ever interacts with the program through views, and never interacts with the debugger or the terminal; however `NSLog()` has a diverse range of uses during development, and like what a #2 Philips-head screwdriver is to tinkering, `NSLog()` has universal applications that makes it belong in any and every toolkit. As a developer, there will never be a time when you **won't** benefit from having `NSLog()` at the ready.
+We call it a developer's tool because in mobile development, the end user of the application only ever interacts with the program through views, and never interacts with the debugger or the terminal. `NSLog()` has a diverse range of uses with universal applications that make it belong in any and every toolkit. As a #2 Philips-head screwdriver is to tinkering, `NSLog()` is to coding for mobile development. As a developer, there will never be a time when you **won't** benefit from having `NSLog()` at the ready.
 
 ### Funky Function
 
